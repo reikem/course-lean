@@ -11,8 +11,9 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
-import { MainNav } from "@/components/main-nav"
-import { Sidebar } from "@/components/sidebar"
+import { MainNav } from "@/components/ui/main-nav"
+import { Sidebar } from "../components/sidebar"
+
 
 const userProfile = {
   name: "María González",
